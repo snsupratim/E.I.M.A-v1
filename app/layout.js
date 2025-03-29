@@ -8,7 +8,7 @@ import { dark } from "@clerk/themes";
 const inter = Inter({ subsets: ["latn"] });
 
 export const metadata = {
-  title: "CampusAI | AI Poweed Campus",
+  title: "EIMA | AI Poweed Campus",
   description: "Get your Campus AI powered.",
 };
 
